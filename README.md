@@ -41,3 +41,8 @@ This project evaluates the performance of four "Expert" audio models by using th
 ├── extract_yamnet.py     # Feature extraction script for YAMNet
 ├── benchmark_competition.py # Main training & evaluation engine
 └── generate_confusion_matrix.py # Error analysis & visualization
+
+## 📊 Dataset
+The **UrbanSound8K** dataset contains 8,732 labeled sound excerpts of urban sounds from 10 classes.
+- **Official Link:** [UrbanSound8K Dataset (NYU)](https://urbansounddataset.weebly.com/urbansound8k.html)
+- **Paper Citation:** J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014.
