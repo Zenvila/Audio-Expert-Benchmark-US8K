@@ -1,0 +1,26 @@
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Data & Embeddings (Too big for GitHub)
+UrbanSound8K_Data/
+embeddings/
+models/checkpoints/*.pt
+
+# Environments
+env/
+.env
+venv/
+
+# Results & Plots
+results/plots/*.png
+results/reports/*.csv
+
+*.pth
+*.pt
+*.ckpt
+embeddings/
+UrbanSound8K_Data/
